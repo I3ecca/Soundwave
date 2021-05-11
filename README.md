@@ -1,4 +1,4 @@
-This is a project that follows along with Web Dev Simplified to a functioning webpage from a a website designed in Figma, by Dev Ed. 
+This is a project that follows along with Web Dev Simplified to create a functioning webpage from concept designed in Figma, by Dev Ed. 
 
 Figma Design:
 https://www.youtube.com/watch?v=FK4YusHIIj0
